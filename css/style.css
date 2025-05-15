@@ -1,0 +1,95 @@
+.myheading {
+    color:red;
+    font-size:30px;
+    }
+    
+    ul{
+        list-style-type:none; 
+    }
+    ul li{
+        margin-right:22px;}
+    .logo{
+        padding-top :30px;
+        margin-bottom:30px
+         }  
+     
+
+ *{
+            font-family: "Atkinson Hyperlegible Next", serif;
+      font-optical-sizing: auto;
+      font-weight: normal;
+      font-style: normal;
+        }
+    .sidebar ul li{
+        margin-bottom:30px;
+    }   
+          
+
+   ul li a{
+        color:black;
+        text-decoration: none;    
+    }
+    .background-color{
+        background-color: #f8f9fa;
+    }
+    .active{
+        color:red;
+    }
+    ul li a:hover{
+        color:red;
+    }
+    
+    .padding{
+        padding-top:60px;
+    }
+    .hiremetag{
+        border-radius :300px;
+    
+    } 
+    .hiremetag:hover{
+        background-color: #069c2e;
+        border:1px solid #069c2e;
+    }
+        
+    .btnmodal{
+        border-radius: 50px;
+
+    }
+    .icon-bar{
+        position: fixed;
+        display: flex;
+        flex-direction: column;
+        top: 40%;
+        right: 0%;
+        z-index: index 100;
+    }
+
+    .icon-social{
+        position: fixed;
+        display: flex;
+        flex-direction: column;
+        top: 40%;
+        left: 0%;
+        z-index: 100;
+    }
+    .icon-bar a{
+        display:block;
+        text-align:center;   
+        padding: 15px 13px;
+        color:white !important;
+        background-color: #fe730c;
+        margin-bottom: 5px;
+        font-size: 10px;
+
+    }
+    .icon-social a{
+        display:block;
+        text-align:center;   
+        padding: 18px 13px;
+        margin-bottom: 5px;
+        font-size: 15px;
+        color:white !important;
+        
+    }
+    
+    
